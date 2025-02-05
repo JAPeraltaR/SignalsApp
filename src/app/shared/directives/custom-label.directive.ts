@@ -51,7 +51,6 @@ export class CustomLabelDirective implements OnInit{
       this.htmlElement.nativeElement.innerHTML = 'Este campo no es un email';
       return;
     }
-
   }
 
 }
